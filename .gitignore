@@ -1,5 +1,5 @@
 env
 app/mydatabase
-app/blog/.env
+app/blog/*.env
 static/*
 media/*
