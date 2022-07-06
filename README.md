@@ -9,6 +9,7 @@ python3 pip install -r requirements.txt
 ```
 And in app dir enter following commands:
 ```bash
+cd blog
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
